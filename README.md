@@ -71,8 +71,8 @@ taskflow/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/taskflow.git
-cd taskflow
+git clone https://github.com/coderaryanlpu/Team-Task-Manager.git
+cd Team-Task-Manager
 ```
 
 ### 2. Install backend dependencies
